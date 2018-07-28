@@ -17,7 +17,7 @@ p{
 	padding:10px;
 	border-radius: 0px 20px 20px 0px;
 	background-color:lightgreen;
-	background-image: url(prueba/icono.svg);
+	background-image: url(https://jpnf.github.io/prueba/icono.svg);
 	background-repeat:no-repeat;
 	background-position: 99% center;
 	background-size: 30px 30px;
@@ -33,7 +33,7 @@ ul{
 }
 ul li{
 	padding-left:2rem;
-	background-image: url(prueba/icono.svg);
+	background-image: url(https://jpnf.github.io/prueba/icono.svg);
 	background-position: 0 0;
 	background-size: 1.6rem 1.6rem;
 	background-repeat: no-repeat;
@@ -64,7 +64,7 @@ thead th:nth-child(4) {
 	width: 35%;
 }
 thead, tfoot{
-	background: url(prueba/icono.svg);
+	background: url(https://jpnf.github.io/prueba/icono.svg);
 	text-shadow: 1px 1px 1px black;
 }
 thead th, tfoot th, tfoot td {
