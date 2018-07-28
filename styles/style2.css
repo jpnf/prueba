@@ -17,7 +17,7 @@ p{
 	padding:10px;
 	border-radius: 0px 20px 20px 0px;
 	background-color:lightgreen;
-	background-image: url(https://jpnf.github.io/prueba/icono.svg);
+	background-image: url(../icono.svg);
 	background-repeat:no-repeat;
 	background-position: 99% center;
 	background-size: 30px 30px;
@@ -33,7 +33,7 @@ ul{
 }
 ul li{
 	padding-left:2rem;
-	background-image: url(https://jpnf.github.io/prueba/icono.svg);
+	background-image: url(../icono.svg);
 	background-position: 0 0;
 	background-size: 1.6rem 1.6rem;
 	background-repeat: no-repeat;
